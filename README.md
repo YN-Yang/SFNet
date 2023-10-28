@@ -1,6 +1,6 @@
 # Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion
 
-This repository is for the paper **Enhancing Traffic Object Detection in Variable Illumination with RGB-Event Fusion**, by Zhanwen Liu, Nan Yang, Yang Wang, Yuke Li, Xiangmo Zhao, Fei-Yue Wang.
+Authors: Zhanwen Liu, Nan Yang, Yang Wang, Yuke Li, Xiangmo Zhao, Fei-Yue Wang.
 
 ## Download DSEC
 
